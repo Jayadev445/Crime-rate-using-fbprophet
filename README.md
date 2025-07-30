@@ -16,6 +16,6 @@ Models made:
 Front-End Screenshots:
 
 
-![index](https://github.com/user-attachments/assets/7dd6cef2-1510-405d-9442-f725b0afbc44)
+[index](https://github.com/user-attachments/assets/7dd6cef2-1510-405d-9442-f725b0afbc44)
 
-![result](https://github.com/user-attachments/assets/53f56eaf-38a3-42b1-a207-51790b13b84c)
+[result](https://github.com/user-attachments/assets/53f56eaf-38a3-42b1-a207-51790b13b84c)
