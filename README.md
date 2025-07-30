@@ -1,8 +1,7 @@
 # Crime-rate-using-fbprophet
 Crime Rate Prediction Using Facebook Prophet, and a web application using Flask
 
-The dataset was taken from kaggle:
-https://www.kaggle.com/datasets/currie32/crimes-in-chicago?select=Chicago_Crimes_2005_to_2007.csv
+The dataset was taken from [kaggle](https://www.kaggle.com/datasets/currie32/crimes-in-chicago?select=Chicago_Crimes_2005_to_2007.csv)
 
 Used the dataset with dates between 2005 and 2007, recent years datasets can also be used.
 
